@@ -1,0 +1,139 @@
+﻿ad_count,dollar_spent,year,candidate,senate_race,state,region,special,party,incumbent,rating,rating_np,outcome,vote_pct,vote_margin
+1730,842470,2020,Doug Jones,Alabama,Alabama,Southeast,0,Democratic,Incumbent,Lean Republican,Lean,Lost,0.4,-0.2
+194,105606,2020,Tommy Tuberville,Alabama,Alabama,Southeast,0,Republican,Challenger,Lean Republican,Lean,Won,0.6,0.2
+831,257269,2020,Dan Sullivan,Alaska,Alaska,West,0,Republican,Incumbent,Lean Republican,Lean,Won,0.54,0.13
+285,664615,2020,Al Gross,Alaska,Alaska,West,0,Democratic,Challenger,Lean Republican,Lean,Lost,0.41,-0.13
+1874,552626,2018,Kyrsten Sinema,Arizona,Arizona,Southwest,0,Democratic,Open,Tossup,Tossup,Won,0.5,0.02
+380,391220,2018,Martha McSally,Arizona,Arizona,Southwest,0,Republican,Open,Tossup,Tossup,Lost,0.48,-0.02
+1387,4693913,2020,Mark Kelly,Arizona (Special),Arizona,Southwest,1,Democratic,Challenger,Lean Democratic,Lean,Won,0.51,0.02
+2618,1608282,2020,Martha McSally,Arizona (Special),Arizona,Southwest,1,Republican,Incumbent,Lean Democratic,Lean,Lost,0.49,-0.02
+144,67456,2020,Tom Cotton,Arkansas,Arkansas,Southeast,0,Republican,Incumbent,Solid Republican,Safe,Won,0.67,0.33
+123,45577,2018,Dianne Feinstein,California,California,Southwest,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.54,0.08
+214,26986,2018,Kevin de León,California,California,Southwest,0,Democratic,Challenger,Solid Democratic,Safe,Lost,0.46,-0.08
+251,347649,2020,Cory Gardner,Colorado,Colorado,West,0,Republican,Incumbent,Lean Democratic,Lean,Lost,0.44,-0.09
+3304,2123196,2020,John Hickenlooper,Colorado,Colorado,West,0,Democratic,Challenger,Lean Democratic,Lean,Won,0.54,0.09
+735,215765,2018,Chris Murphy,Connecticut,Connecticut,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.6,0.2
+35,19965,2018,Matthew Corey,Connecticut,Connecticut,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.39,-0.2
+437,76263,2020,Chris Coons,Delaware,Delaware,Southeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.59,0.22
+14,14086,2020,Lauren Witzke,Delaware,Delaware,Southeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.38,-0.22
+180,38920,2018,Rob Arlett,Delaware,Delaware,Southeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.38,-0.22
+35,43565,2018,Tom Carper,Delaware,Delaware,Southeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.6,0.22
+1241,802359,2018,Bill Nelson,Florida,Florida,Southeast,0,Democratic,Incumbent,Tossup,Tossup,Lost,0.5,0
+164,120236,2018,Rick Scott,Florida,Florida,Southeast,0,Republican,Challenger,Tossup,Tossup,Won,0.5,0
+202,115998,2020,David Perdue,Georgia,Georgia,Southeast,0,Republican,Incumbent,Tossup,Tossup,Runoff,0.5,0.02
+1293,1930507,2020,Jon Ossoff,Georgia,Georgia,Southeast,0,Democratic,Challenger,Tossup,Tossup,Runoff,0.48,-0.02
+812,314688,2020,Kelly Loeffler,Georgia (Special),Georgia,Southeast,1,Republican,Incumbent,Tossup,Tossup,Runoff,0.26,-0.07
+2077,1578323,2020,Raphael Warnock,Georgia (Special),Georgia,Southeast,1,Democratic,Challenger,Tossup,Tossup,Runoff,0.33,0.07
+70,35630,2018,Mazie Hirono,Hawaii,Hawaii,West,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.71,0.42
+18,4482,2018,Ron Curtis,Hawaii,Hawaii,West,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.29,-0.42
+35,5465,2020,Jim Risch,Idaho,Idaho,West,0,Republican,Incumbent,Solid Republican,Safe,Won,0.63,0.29
+112,35488,2020,Paulette Jordan,Idaho,Idaho,West,0,Democratic,Challenger,Solid Republican,Safe,Lost,0.33,-0.29
+49,161951,2020,Dick Durbin,Illinois,Illinois,Midwest,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.54,0.15
+40,7460,2020,Mark Curran,Illinois,Illinois,Midwest,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.4,-0.15
+1279,412121,2018,Joe Donnelly,Indiana,Indiana,Midwest,0,Democratic,Incumbent,Tossup,Tossup,Lost,0.45,-0.06
+423,307177,2018,Mike Braun,Indiana,Indiana,Midwest,0,Republican,Challenger,Tossup,Tossup,Won,0.51,0.06
+512,545788,2020,Joni Ernst,Iowa,Iowa,Midwest,0,Republican,Incumbent,Tossup,Tossup,Won,0.52,0.07
+1297,1260703,2020,Theresa Greenfield,Iowa,Iowa,Midwest,0,Democratic,Challenger,Tossup,Tossup,Lost,0.45,-0.07
+317,552783,2020,Barbara Bollier,Kansas,Kansas,Midwest,0,Democratic,Open,Lean Republican,Lean,Lost,0.42,-0.12
+326,109474,2020,Roger Marshall,Kansas,Kansas,Midwest,0,Republican,Open,Lean Republican,Lean,Won,0.54,0.12
+1800,3214900,2020,Amy McGrath,Kentucky,Kentucky,Southeast,0,Democratic,Challenger,Likely Republican,Lean,Lost,0.38,-0.2
+252,2611348,2020,Mitch McConnell,Kentucky,Kentucky,Southeast,0,Republican,Incumbent,Likely Republican,Lean,Won,0.58,0.2
+181,169319,2020,Bill Cassidy,Louisiana,Louisiana,Southeast,0,Republican,Incumbent,Solid Republican,Safe,Won,0.59,0.4
+833,118167,2020,Adrian Perkins,Louisiana,Louisiana,Southeast,0,Democratic,Challenger,Solid Republican,Safe,Lost,0.19,-0.4
+3491,3426409,2020,Sara Gideon,Maine,Maine,Northeast,0,Democratic,Challenger,Tossup,Tossup,Won,0.51,0.08
+735,611865,2020,Susan Collins,Maine,Maine,Northeast,0,Republican,Incumbent,Tossup,Tossup,Lost,0.43,-0.08
+712,128488,2018,Angus King,Maine,Maine,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.54,0.19
+66,14034,2018,Eric Brakey,Maine,Maine,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.35,-0.19
+20,19580,2018,Ben Cardin,Maryland,Maryland,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.65,0.35
+25,32775,2018,Tony Campbell,Maryland,Maryland,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.3,-0.35
+837,506853,2020,Ed Markey,Massachusetts,Massachusetts,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.66,0.32
+90,34310,2020,Kevin O'Connor,Massachusetts,Massachusetts,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.34,-0.32
+3071,794829,2018,Elizabeth Warren,Massachusetts,Massachusetts,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.6,0.24
+155,58745,2018,Geoff Diehl,Massachusetts,Massachusetts,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.36,-0.24
+2520,2124780,2020,Gary Peters,Michigan,Michigan,Midwest,0,Democratic,Incumbent,Lean Democratic,Lean,Won,0.5,0.02
+409,287491,2020,John James,Michigan,Michigan,Midwest,0,Republican,Challenger,Lean Democratic,Lean,Lost,0.48,-0.02
+304,176796,2018,Debbie Stabenow,Michigan,Michigan,Midwest,0,Democratic,Incumbent,Likely Democratic,Safe,Won,0.52,0.06
+567,226033,2018,John James,Michigan,Michigan,Midwest,0,Republican,Challenger,Likely Democratic,Safe,Lost,0.46,-0.06
+163,425637,2020,Jason Lewis,Minnesota,Minnesota,Midwest,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.44,-0.05
+1790,429410,2020,Tina Smith,Minnesota,Minnesota,Midwest,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.49,0.05
+118,53281,2018,Amy Klobuchar,Minnesota,Minnesota,Midwest,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.6,0.24
+99,15501,2018,Jim Newberger,Minnesota,Minnesota,Midwest,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.36,-0.24
+211,57289,2018,Karin Housley,Minnesota (Special),Minnesota,Midwest,1,Republican,Challenger,Lean Democratic,Lean,Lost,0.42,-0.11
+929,170971,2018,Tina Smith,Minnesota (Special),Minnesota,Midwest,1,Democratic,Incumbent,Lean Democratic,Lean,Won,0.53,0.11
+6,27994,2020,Cindy Hyde-Smith,Mississippi,Mississippi,Southeast,0,Republican,Incumbent,Solid Republican,Safe,Won,0.56,0.13
+1789,482411,2020,Mike Espy,Mississippi,Mississippi,Southeast,0,Democratic,Challenger,Solid Republican,Safe,Lost,0.42,-0.13
+679,113221,2018,David Baria,Mississippi,Mississippi,Southeast,0,Democratic,Challenger,Solid Republican,Safe,Lost,0.39,-0.19
+168,28832,2018,Roger Wicker,Mississippi,Mississippi,Southeast,0,Republican,Incumbent,Solid Republican,Safe,Won,0.58,0.19
+215,68385,2018,Cindy Hyde-Smith,Mississippi (Special),Mississippi,Southeast,1,Republican,Incumbent,Lean Republican,Lean,Won,0.54,0.07
+39,12261,2018,Mike Espy,Mississippi (Special),Mississippi,Southeast,1,Democratic,Challenger,Lean Republican,Lean,Lost,0.46,-0.07
+1001,1558499,2018,Claire McCaskill,Missouri,Missouri,Midwest,0,Democratic,Incumbent,Tossup,Tossup,Lost,0.46,-0.06
+26,11274,2018,Josh Hawley,Missouri,Missouri,Midwest,0,Republican,Challenger,Tossup,Tossup,Won,0.51,0.06
+4441,1772859,2020,Steve Bullock,Montana,Montana,West,0,Democratic,Challenger,Tossup,Tossup,Lost,0.45,-0.1
+1878,2391022,2020,Steve Daines,Montana,Montana,West,0,Republican,Incumbent,Tossup,Tossup,Won,0.55,0.1
+1159,500141,2018,Jon Tester,Montana,Montana,West,0,Democratic,Incumbent,Tossup,Tossup,Won,0.5,0.04
+154,84146,2018,Matt Rosendale,Montana,Montana,West,0,Republican,Challenger,Tossup,Tossup,Lost,0.47,-0.04
+31,25169,2020,Ben Sasse,Nebraska,Nebraska,Midwest,0,Republican,Incumbent,Solid Republican,Safe,Won,0.65,0.4
+13,2987,2020,Chris Janicek,Nebraska,Nebraska,Midwest,0,Democratic,Challenger,Solid Republican,Safe,Lost,0.25,-0.4
+131,48469,2018,Deb Fischer,Nebraska,Nebraska,Midwest,0,Republican,Incumbent,Solid Republican,Safe,Won,0.58,0.19
+99,16701,2018,Jane Raybould,Nebraska,Nebraska,Midwest,0,Democratic,Challenger,Solid Republican,Safe,Lost,0.39,-0.19
+354,259346,2018,Dean Heller,Nevada,Nevada,West,0,Republican,Incumbent,Tossup,Tossup,Lost,0.45,-0.05
+1636,543764,2018,Jacky Rosen,Nevada,Nevada,West,0,Democratic,Challenger,Tossup,Tossup,Won,0.5,0.05
+164,67236,2020,Corky Messner,New Hampshire,New Hampshire,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.41,-0.16
+791,272409,2020,Jeanne Shaheen,New Hampshire,New Hampshire,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.57,0.16
+923,269577,2020,Cory Booker,New Jersey,New Jersey,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.57,0.16
+12,3988,2020,Rik Mehta,New Jersey,New Jersey,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.41,-0.16
+77,403623,2018,Bob Hugin,New Jersey,New Jersey,Northeast,0,Republican,Challenger,Tossup,Tossup,Lost,0.43,-0.11
+141,27359,2018,Bob Menendez,New Jersey,New Jersey,Northeast,0,Democratic,Incumbent,Tossup,Tossup,Won,0.54,0.11
+10,35290,2020,Ben Ray Luján,New Mexico,New Mexico,Southwest,0,Democratic,Open,Solid Democratic,Safe,Won,0.52,0.06
+80,25020,2020,Mark Ronchetti,New Mexico,New Mexico,Southwest,0,Republican,Open,Solid Democratic,Safe,Lost,0.46,-0.06
+440,155160,2018,Martin Heinrich,New Mexico,New Mexico,Southwest,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.54,0.24
+87,58113,2018,Mick Rich,New Mexico,New Mexico,Southwest,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.31,-0.24
+39,73661,2018,Chele Farley,New York,New York,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.33,-0.34
+501,463999,2018,Kirsten Gillibrand,New York,New York,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.67,0.34
+5119,1141481,2020,Cal Cunningham,North Carolina,North Carolina,Southeast,0,Democratic,Challenger,Tossup,Tossup,Lost,0.47,-0.02
+30,96070,2020,Thom Tillis,North Carolina,North Carolina,Southeast,0,Republican,Incumbent,Tossup,Tossup,Won,0.49,0.02
+1683,1253017,2018,Heidi Heitkamp,North Dakota,North Dakota,Midwest,0,Democratic,Incumbent,Tossup,Tossup,Lost,0.45,-0.11
+101,67899,2018,Kevin Cramer,North Dakota,North Dakota,Midwest,0,Republican,Challenger,Lean Republican,Lean,Won,0.55,0.11
+36,8264,2018,Jim Renacci,Ohio,Ohio,Midwest,0,Republican,Challenger,Likely Democratic,Safe,Lost,0.47,-0.07
+128,525872,2018,Sherrod Brown,Ohio,Ohio,Midwest,0,Democratic,Incumbent,Likely Democratic,Safe,Won,0.53,0.07
+61,28739,2020,Abby Broyles,Oklahoma,Oklahoma,Southwest,0,Democratic,Challenger,Solid Republican,Safe,Lost,0.33,-0.3
+12,29588,2020,Jim Inhofe,Oklahoma,Oklahoma,Southwest,0,Republican,Incumbent,Solid Republican,Safe,Won,0.63,0.3
+1893,313707,2020,Jeff Merkley,Oregon,Oregon,West,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.57,0.18
+14,1386,2020,Jo Rae Perkins,Oregon,Oregon,West,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.39,-0.18
+297,266603,2018,Bob Casey Jr.,Pennsylvania,Pennsylvania,Northeast,0,Democratic,Incumbent,Likely Democratic,Safe,Won,0.56,0.13
+21,44379,2018,Lou Barletta,Pennsylvania,Pennsylvania,Northeast,0,Republican,Challenger,Likely Democratic,Safe,Lost,0.43,-0.13
+61,8839,2020,Allen Waters,Rhode Island,Rhode Island,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.34,-0.33
+4,20396,2020,Jack Reed,Rhode Island,Rhode Island,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.67,0.33
+174,31626,2018,Bob Flanders,Rhode Island,Rhode Island,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.38,-0.23
+285,46015,2018,Sheldon Whitehouse,Rhode Island,Rhode Island,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.61,0.23
+1679,8206221,2020,Jaime Harrison,South Carolina,South Carolina,Southeast,0,Democratic,Challenger,Tossup,Tossup,Lost,0.44,-0.1
+1722,6952878,2020,Lindsey Graham,South Carolina,South Carolina,Southeast,0,Republican,Incumbent,Tossup,Tossup,Won,0.55,0.1
+36,8264,2020,Dan Ahlers,South Dakota,South Dakota,Midwest,0,Democratic,Challenger,Solid Republican,Safe,Lost,0.34,-0.31
+3,8197,2020,Mike Rounds,South Dakota,South Dakota,Midwest,0,Republican,Incumbent,Solid Republican,Safe,Won,0.66,0.31
+346,110454,2020,Bill Hagerty,Tennessee,Tennessee,Southeast,0,Republican,Open,Solid Republican,Safe,Won,0.62,0.27
+9,1491,2020,Marquita Bradshaw,Tennessee,Tennessee,Southeast,0,Democratic,Open,Solid Republican,Safe,Lost,0.35,-0.27
+332,386668,2018,Marsha Blackburn,Tennessee,Tennessee,Southeast,0,Republican,Open,Tossup,Tossup,Won,0.55,0.11
+4383,779717,2018,Phil Bredesen,Tennessee,Tennessee,Southeast,0,Democratic,Open,Tossup,Tossup,Lost,0.44,-0.11
+3220,1516380,2020,John Cornyn,Texas,Texas,Southwest,0,Republican,Incumbent,Lean Republican,Lean,Won,0.54,0.1
+442,340358,2020,MJ Hegar,Texas,Texas,Southwest,0,Democratic,Challenger,Lean Republican,Lean,Lost,0.44,-0.1
+8690,8880910,2018,Beto O'Rourke,Texas,Texas,Southwest,0,Democratic,Challenger,Tossup,Tossup,Lost,0.48,-0.03
+319,806181,2018,Ted Cruz,Texas,Texas,Southwest,0,Republican,Incumbent,Tossup,Tossup,Won,0.51,0.03
+8,42492,2018,Jenny Wilson,Utah,Utah,West,0,Democratic,Open,Solid Republican,Safe,Lost,0.31,-0.32
+3,2497,2018,Mitt Romney,Utah,Utah,West,0,Republican,Open,Solid Republican,Safe,Won,0.63,0.32
+214,102586,2018,Bernie Sanders,Vermont,Vermont,Northeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.67,0.4
+52,6048,2018,Lawrence Zupan,Vermont,Vermont,Northeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.27,-0.4
+71,54429,2020,Daniel Gade,Virginia,Virginia,Southeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.44,-0.12
+229,265071,2020,Mark Warner,Virginia,Virginia,Southeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.56,0.12
+125,46275,2018,Corey Stewart,Virginia,Virginia,Southeast,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.41,-0.16
+224,504676,2018,Tim Kaine,Virginia,Virginia,Southeast,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.57,0.16
+102,320898,2018,Maria Cantwell,Washington,Washington,West,0,Democratic,Incumbent,Solid Democratic,Safe,Won,0.58,0.17
+43,46057,2018,Susan Hutchison,Washington,Washington,West,0,Republican,Challenger,Solid Democratic,Safe,Lost,0.42,-0.17
+370,102730,2020,Paula Jean Swearengin,West Virginia,West Virginia,Southeast,0,Democratic,Challenger,Solid Republican,Safe,Lost,0.27,-0.46
+123,79477,2018,Joe Manchin,West Virginia,West Virginia,Southeast,0,Democratic,Incumbent,Lean Democratic,Lean,Won,0.5,0.03
+59,63341,2018,Patrick Morrisey,West Virginia,West Virginia,Southeast,0,Republican,Challenger,Lean Democratic,Lean,Lost,0.46,-0.03
+82,50418,2018,Leah Vukmir,Wisconsin,Wisconsin,Midwest,0,Republican,Challenger,Likely Democratic,Safe,Lost,0.45,-0.11
+1633,499167,2018,Tammy Baldwin,Wisconsin,Wisconsin,Midwest,0,Democratic,Incumbent,Likely Democratic,Safe,Won,0.55,0.11
+89,24211,2020,Cynthia Lummis,Wyoming,Wyoming,West,0,Republican,Open,Solid Republican,Safe,Won,0.73,0.46
+84,21916,2020,Merav Ben-David,Wyoming,Wyoming,West,0,Democratic,Open,Solid Republican,Safe,Lost,0.27,-0.46
+78,33822,2018,Gary Trauner,Wyoming,Wyoming,West,0,Democratic,Challenger,Solid Republican,Safe,Won,0.3,-0.37
+55,48845,2018,John Barrasso,Wyoming,Wyoming,West,0,Republican,Incumbent,Solid Republican,Safe,Won,0.67,0.37
