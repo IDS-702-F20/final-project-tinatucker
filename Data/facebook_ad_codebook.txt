@@ -1,0 +1,16 @@
+#Variable Codebook [Tina Tucker]
+
+ad_count		Number of Facebook ads run in 4-month period prior to Election Day
+dollar_spent		Dollar amount spent on Facebook ads in 4-month period prior to Election Day
+year			Year of election (2018 or 2020)
+candidate		Senate candidate name
+senate_race		Senate race name
+state			State of Senate race
+region			Region of Senate race - northeast, midwest, southeast, southwest, and west
+special			Special or General Election
+party			Political party - Republican or Democratic
+incumbent		Incumbent, challenger, or open seat
+rating			Competitiveness rating from Cook Political Report
+outcome			Election outcome - win, lose, or runoff
+vote_pct		Vote share
+vote_margin		Vote difference between candidate and opponent
